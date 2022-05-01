@@ -39,9 +39,9 @@ Full-Stack Web Developer
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/auraeon"><img src="https://github-readme-stats.vercel.app/api?username=auraeon&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="auraeon's GitHub stats" /></a>
+<a href="http://www.github.com/devin-gaughan"><img src="https://github-readme-stats.vercel.app/api?username=devin-gaughan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="devin-gaughan's GitHub stats" /></a>
 
-<a href="https://github.com/auraeon" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auraeon&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/devin-gaughan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devin-gaughan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 

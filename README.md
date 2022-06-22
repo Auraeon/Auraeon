@@ -6,7 +6,7 @@ Full-Stack Web Developer
 
 * 🌍  I'm based in Portland, Oregon
 * 🖥️  See my portfolio at [My Portfolio](http://devingaughan.com)
-* ✉️  You can contact me at [email@devingaughan.com](mailto:email@devingaughan.com)
+* ✉️  You can contact me at [email@devingaughan.com](mailto:devin@devingaughan.com)
 * 🧠  I'm learning React Native
 
 ### Skills

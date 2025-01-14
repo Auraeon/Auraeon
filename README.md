@@ -7,10 +7,11 @@ Hi 👋 My name is Devin Gaughan
 Firmware Engineer
 ------------------------
 
-* 🌍  I'm based in Bangkok, Thailand
+* 🏡  I'm from Vancouver, Washington, United States of America
+* 🌍  I'm often in Bangkok, Thailand
 * 🖥️  See my portfolio at [My Portfolio](http://devingaughan.com)
 * ✉️  You can contact me at [devin@devingaughan.com](mailto:devin@devingaughan.com)
-* 🧠  I'm always learning
+* 🧠  I'm striving to learn something new every day
 
 ### Skills
 

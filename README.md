@@ -9,7 +9,7 @@ Firmware Engineer
 
 * 🏡  I'm from Vancouver, Washington, United States of America
 * 🌍  I'm often in Bangkok, Thailand
-* 🖥️  See my portfolio at [My Portfolio](http://devingaughan.com)
+* 🖥️  See my portfolio at [My Portfolio](https://devingaughan.com)
 * ✉️  You can contact me at [devin@devingaughan.com](mailto:devin@devingaughan.com)
 * 🧠  I'm striving to learn something new every day
 
